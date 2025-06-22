@@ -1,0 +1,11 @@
+tensorflow>=2.13.0
+torch>=2.1.0
+streamlit
+fastapi
+uvicorn
+pillow
+opencv-python
+scikit-learn
+transformers
+pandas
+numpy
